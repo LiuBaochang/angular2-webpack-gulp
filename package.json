@@ -1,0 +1,29 @@
+{
+  "name": "fubings",
+  "version": "1.0.0",
+  "description": "use webpack and gulp build angular2 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiuBaochang/fubings.git"
+  },
+  "keywords": [
+    "webpack",
+    "gulp",
+    "angular2"
+  ],
+  "author": "NanRen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiuBaochang/fubings/issues"
+  },
+  "homepage": "https://github.com/LiuBaochang/fubings#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  }
+}
